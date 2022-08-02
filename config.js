@@ -1,6 +1,6 @@
 module.exports = {
   app: {
-    port: 3000,
+    port: process.env.PORT ||3000,
   },
   database: {
     connection: "mongodb://localhost:27017/shopping",
