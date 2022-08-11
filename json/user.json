@@ -3,24 +3,74 @@
     "$oid": "5f8b0dc2e95f47cdc246dc0a"
   },
   "id": 1,
-  "fullname": "Nguyễn Cảnh Vinh",
+  "fullname": "Bùi Văn Hoán",
   "email": "admin@gmail.com",
-  "password": "$2a$16$7DNIJm6ye79xEyWDVwd88uuxZAt4LMkJ9heNIB7PD8zSlADMKFkPu",
+  "password": "$2a$16$H9BnTPXQD6UGfNnABkbuduCvp/akD3y3ML12N5g6L41Ky9zjR8xpC",
   "roles": [
     "ADMIN"
   ],
-  "photo": "1632966584445_anh.jpg"
+  "photo": "1659363786399_profile.jpg"
 },{
   "_id": {
     "$oid": "5f9c4510a3de3a0c50c6ea43"
   },
   "id": 13,
-  "fullname": "Nguyễn Phương Nam",
-  "email": "phuongnamhd00@gmail.com",
-  "password": "$2a$16$gPTLCKrP6TAcd7.z1nwCV.r24j.Xoiw8Lue/PAKj9ev41h4Bq0lMW",
+  "fullname": "Nguyễn Văn Động",
+  "email": "dong@gmail.com",
+  "password": "$2a$16$cpY/sbYw1UYggcdEUOkZUe/2Q0eJ.6rKLw.4beq1Omz9uIcd3Pd0e",
   "roles": [
     "CUSTOMER"
   ],
   "__v": 0,
-  "photo": "1632975395878_chon-nghe-2.jpg"
+  "photo": "1659363821742_profile.jpg"
+},{
+  "_id": {
+    "$oid": "62ec60d6f1f30c3e60eb0ead"
+  },
+  "id": 17,
+  "fullname": "aaaaaaaaaa",
+  "email": "a@gmail.com",
+  "password": "$2a$16$AO7p01ES/ZRci0OrerAx3uE547.SYJ5y13b.8iZUjeiqZAqjKe3WS",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ec60e3f1f30c3e60eb0eae"
+  },
+  "id": 18,
+  "fullname": "aaaaaaaaaa",
+  "email": "a@gmail.com",
+  "password": "$2a$16$xSiLDnNoXEQD6mx0aVu8vuDmiMJvw5XbBJCO4yYRHNYbCCdmCZ0pS",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "62ec60eff1f30c3e60eb0eaf"
+  },
+  "id": 19,
+  "fullname": "bui hoan",
+  "email": "a@gmail.com",
+  "password": "$2a$16$4.kkRYaP1RzfAtD1FKHTwOoehGTo8F87tzhGGJmHt58xw2pSOWZEe",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "62ec6113f1f30c3e60eb0eb0"
+  },
+  "id": 20,
+  "fullname": "bui hoan",
+  "email": "ab@gmail.com",
+  "password": "$2a$16$RokIg65jKtwIfNGo.lV4ROEIx6VyW.FagNWVkBjF4sTeVJ7iY5Dn6",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0
 }]

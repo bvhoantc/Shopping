@@ -12,7 +12,7 @@
   },
   "model": "user",
   "field": "id",
-  "count": 16,
+  "count": 20,
   "__v": 0
 },{
   "_id": {
@@ -20,7 +20,7 @@
   },
   "model": "category",
   "field": "id",
-  "count": 15,
+  "count": 16,
   "__v": 0
 },{
   "_id": {
@@ -36,6 +36,6 @@
   },
   "model": "order",
   "field": "id",
-  "count": 52,
+  "count": 54,
   "__v": 0
 }]
